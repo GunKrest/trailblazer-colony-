@@ -1,6 +1,6 @@
 - type: entity
   parent: [ BaseItem ]
-  id : LogProbe
+  id: LogProbe
   name: log probe
   description: a device able to recover the log history from some machines.
   components:
